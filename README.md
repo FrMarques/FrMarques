@@ -5,6 +5,8 @@
 - 📫 You can reach me through franciscomarques4655@gmail.com or my Social Media accounts on Twitter, LinkedIn, Instagram an Threads. I'm also on Facebook but just for fun with friends.
 - 😄 I'm Portuguese and you can refer to me as He/Him.
 - ⚡ I have a close link with the colour green and lions as a symbol. I live for more than a decade now in Lyon, France, which is trying to become a green city.
+- ### Linguagens de Programação Mais Usadas por Mim, por enquanto, Aqui nos Ficheiros do GitHub:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrMarques&layout=compact)
 
 <!---
 FrMarques/FrMarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
